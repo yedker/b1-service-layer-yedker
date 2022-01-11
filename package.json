@@ -1,0 +1,31 @@
+{
+  "name": "b1-sl",
+  "version": "1.0.0",
+  "description": "JS library for SAP Business One Service Layer API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yedker/b1-sl.git"
+  },
+  "author": "Yedker",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "moment": "^2.24.0"
+  },
+  "keywords": [
+    "sap",
+    "service",
+    "layer",
+    "b1",
+    "hana"
+  ],
+  
+  "homepage": "https://github.com/yedker/b1-sl",
+  "directories": {
+    "test": "test"
+  }
+}
